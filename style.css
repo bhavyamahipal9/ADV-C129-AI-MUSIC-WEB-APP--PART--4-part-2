@@ -1,0 +1,37 @@
+#icon{
+    width: 100px;
+    margin-top: 15px;
+}
+
+h3{
+    width: 100%;
+    border: 5px solid yellow;
+    box-shadow: 5px 5px 5px 25px orange;
+    margin: 5px;
+    padding: 5px;
+}
+
+#note{
+    color: red;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border: 3px dashed white;
+    margin: 25px;
+    padding: 10px;
+}
+
+#song_name{
+    width: 250px;
+    color: yellow;
+    margin: 5px;
+    border: 10px solid orange;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 3px;
+}
